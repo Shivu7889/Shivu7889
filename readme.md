@@ -1,4 +1,5 @@
-<img src="[https://example.com/your-image.jpg](https://drive.google.com/file/d/1vTtT9oRyLKpDTYOPfzAe7S5TDTnIQvYx/view?usp=sharing)" alt="Alt Text">
+![Alt Text](https://drive.google.com/file/d/1vTtT9oRyLKpDTYOPfzAe7S5TDTnIQvYx/view?usp=sharing)
+
 
 <h1 align="center">Hi 👋, I'm Shivam Patidar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
