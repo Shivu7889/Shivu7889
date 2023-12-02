@@ -1,4 +1,4 @@
-![Alt Text](https://drive.google.com/file/d/1vTtT9oRyLKpDTYOPfzAe7S5TDTnIQvYx/view?usp=sharing)
+![Alt Text](https://drive.google.com/uc?export=view&id=1vTtT9oRyLKpDTYOPfzAe7S5TDTnIQvYx)
 
 
 <h1 align="center">Hi 👋, I'm Shivam Patidar</h1>
