@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **MERN , AI & ML**
+- 💬 Ask me about **MERN , AI & ML and Blockchain**
 
 - 📫 How to reach me **shivupatel7889@gmail.com**
 
